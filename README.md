@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
 - Whatsapp/Cellphone Number:  +55 81 989716407
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/andrewoliver616">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewoliver616&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewoliver616&layout=compact&langs_count=7&theme=dark"/>
