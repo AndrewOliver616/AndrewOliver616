@@ -1,9 +1,9 @@
 - 👋 Olá eu sou André Oliveira, Sou de Recife PE.
 - 👀 Estou interessado em vagas back-end em posições de Estágio, Junior ou trainee.
-- 🌱 I’m currently learning C#, SQL Server, HTML e CSS Intermediário, Arquitetura com .NET Core e Qualidade de Software
-- 💞️ I’m looking to collaborate on novos projetos para iniciar minha carreira em programação.
-- 📫 How to reach me https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
-- Whatsapp/Cellphone Number:  +55 81 989716407
+- 🌱 Estudando C#, SQL Server, HTML e CSS Intermediário, Arquitetura com .NET Core e Qualidade de Software
+- 💞️ Estou interessado novos projetos para iniciar minha carreira em programação .NET
+- 📫 Para me contatar https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
+- Whatsapp/Cellphone Number:  +55 81 989716407/81 999041376
 
 <div align="left">
   <a href="https://github.com/andrewoliver616">
