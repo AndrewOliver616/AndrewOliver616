@@ -2,10 +2,10 @@
 - 👀 Estou interessado em vagas back-end em posições de Junior, estágio ou trainee.
 - - English Description:
 - "Hi, i'm Andre,live Recife, Pernambuco state. I'm interested in junior or intership jobs"
-- 🌱 Estudando/Learning JavaScript, NodeJS, ReactJS, C#, SQL Server, AWS, NoSQL, HTML e CSS Intermediário.
+- 🌱 Estudando/Learning JavaScript, NodeJS, C#, SQL Server, AWS, NoSQL, HTML e CSS Intermediário.
 - 💞️ Estou interessado novos projetos para iniciar minha carreira em programação .NET
 - 📫 Para me contatar https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
-- Whatsapp/Cellphone Number:  +55 81 989716407/81 999041376
+- Whatsapp/Cellphone Number:  +55 81 989716407
 
 
 
