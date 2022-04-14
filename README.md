@@ -3,7 +3,6 @@
 - - English Description:
 - "Hi, i'm Andre,live Recife, Pernambuco state. I'm interested in junior or intership jobs"
 - 🌱 Estudando/Learning JavaScript, ReactJS, SQL Server, AWS, NoSQL, HTML e CSS.
-- 💞️ Estou interessado novos projetos para iniciar minha carreira em programação .NET
 - 📫 Para me contatar https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
 - Whatsapp/Cellphone Number:  +55 81 989716407
 
