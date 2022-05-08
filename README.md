@@ -2,8 +2,8 @@
 - 👀 Estou interessado em vagas back-end em posições de Junior, estágio ou trainee.
 - - English Description:
 - "Hi, i'm Andre,live Recife, Pernambuco state. I'm interested in junior or intership jobs"
-- 🌱 Estudando/Learning JavaScript, ReactJS, SQL Server, AWS, NoSQL, HTML e CSS.
-- 📫 Para me contatar https://www.linkedin.com/in/andre-luiz-oliveira-384180139/
+- 🌱 Estudando/Learning JavaScript,C# and Golang. NodeJS, SQL Server, AWS, NoSQL, HTML e CSS.
+- 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
 - Whatsapp/Cellphone Number:  +55 81 989716407
 
 
@@ -22,4 +22,6 @@
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt"Andre-Golang" height="30" width="40" src"https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 </div>
