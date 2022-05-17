@@ -1,8 +1,8 @@
 - 👋 Olá eu sou André Oliveira, moro em Recife PE.
-- 👀 Estou interessado em vagas back-end em posições de Junior, estágio ou trainee.
+- 👀 Estou interessado em vagas back-end
 - - English Description:
-- "Hi, i'm Andre,live Recife, Pernambuco state. I'm interested in junior or intership jobs"
-- 🌱 Estudando/Learning JavaScript,C# and Golang. NodeJS, SQL Server, AWS, NoSQL, HTML e CSS.
+- "Hi, i'm Andre,live Recife, Pernambuco state.
+- 🌱 JavaScript,C# and Golang. NodeJS, SQL Server, AWS, NoSQL, HTML e CSS.
 - 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
 - Whatsapp/Cellphone Number:  +55 81 989716407
 
