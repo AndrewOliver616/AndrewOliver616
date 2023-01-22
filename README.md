@@ -2,7 +2,7 @@
 - 👀 Estou interessado em vagas back-end
 - - English Description:
 - "Hi, i'm Andre,live Recife, Pernambuco state.
-- 🌱 C# .NET, JS, Angular 11 and  SQL Server, Azure, MongoDB, HTML e CSS.
+- 🌱 C# .NET, Angular,  SQL Server, Azure, MongoDB, HTML e CSS.
 - 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
 - Whatsapp/Cellphone Number:  +55 81 989716407
 
