@@ -4,7 +4,7 @@
 - "Hi, i'm Andre,live Recife, Pernambuco state.
 - 🌱 C# .NET, Angular,  SQL Server, Azure, MongoDB, HTML e CSS.
 - 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
-- Whatsapp/Cellphone Number:  +55 81 989716407
+- Whatsapp/Cellphone Number
 
 
 
