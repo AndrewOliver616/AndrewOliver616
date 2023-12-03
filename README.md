@@ -1,8 +1,9 @@
 - 👋 Olá eu sou André Oliveira, moro em Recife PE.
-- 👀 Estou interessado em vagas back-end
+- 👀 Estou interessado em vagas back-end para trabalhar com C# e .NET.
 - - English Description:
-- "Hi, i'm Andre,live Recife, Pernambuco state.
-- 🌱 C# .NET, Angular,  SQL Server, Azure, MongoDB, HTML e CSS.
+- "Hi, i'm Andre,live in Recife, Pernambuco state, Brazil.
+- 🌱 I'm finding my first job em technology, i study C# .NET, Angular,  SQL Server, Azure, HTML and CSS.
+- 📖I'm majoring in systems analysis and development, my course is expected to end in June 2025.
 - 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
 - Whatsapp/Cellphone Number
 
