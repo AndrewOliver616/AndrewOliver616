@@ -29,4 +29,3 @@
      
 </div>
 
-<div><iframe width="600" height="400" frameBorder="0" src="https://www.mindmeister.com/maps/public_map_shell/3411806093/pesquisa-teorias-e-fundamento?width=600&height=400&z=auto&no_share=1" scrolling="no" style="overflow:hidden;margin-bottom:5px">Seu navegador não pode exibir frames. Por favor, acesse <a href="https://www.mindmeister.com/3411806093/pesquisa-teorias-e-fundamento" target="_blank">Pesquisa: Teorias e Fundamento</a> no MindMeister.</iframe></div>
