@@ -1,14 +1,7 @@
 - 👋 Olá eu sou André Oliveira, moro em Recife PE.
-- 👀 Estou interessado em vagas back-end para trabalhar com C# e .NET.
-- - English Description:
-- "Hi, i'm Andre,live in Recife, Pernambuco state, Brazil.
-- 🌱 I'm finding my first job em technology, i study C# .NET, Angular,  SQL Server, Azure, HTML and CSS.
-- 📖I'm majoring in systems analysis and development, my course is expected to end in June 2025.
-- 📫 Para me contatar https://www.linkedin.com/in/andreoliveirawebdev/
-- Whatsapp/Cellphone Number
-
-
-
+- 👀 Estou interessado em vagas e analista e dados de nivel jr.
+- - Atualmente atuo como analista trainee.
+- Possuo afinidade com C# e tenho certificação Azure AZ-900
 
 <div align="left">
   <a href="https://github.com/andrewoliver616">
@@ -20,12 +13,7 @@
       <img align="center" alt="andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
       <img align="center" alt="andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
       <img align="center" alt="andre-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-    <img align="center" alt="andre-dotnet-core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-      <img align="center" alt="andre-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
       <img align="center" alt="andre-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-      <img align="center" alt="andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-      <img align="center" alt="andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  	  
-     
+    
 </div>
 
