@@ -12,8 +12,9 @@
   <div style="display: inline_block"><br>
       <img align="center" alt="andre-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
       <img align="center" alt="andre-Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000"/>
-      <img align="center" alt="andre-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-      <img align="center" alt="andre-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+      <img align="center" alt="andre-dotnet" height="30" width="40" src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000"/>
+      <img align="center" alt="andre-sql" height="30" width="40" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000"/>
+       <img align="center" alt="andre-sql" height="30" width="40" src="https://icons8.com/icon/QSjnrUKYMnxO/sql"/>
     
 </div>
 
